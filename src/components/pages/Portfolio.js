@@ -23,7 +23,6 @@ class Portfolio extends Component {
           <Projects
             id={project.id}
             key={project.id}
-						title={project.title}
 						image={project.image}
           />
         ))}

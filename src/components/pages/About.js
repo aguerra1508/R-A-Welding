@@ -10,7 +10,7 @@ const About = () => (
 <div className="card">
 <h2 className="card-title">About Me:</h2>
   <div className="card-body">
-	<img src="https://via.placeholder.com/250" alt="C/O https://placeholder.com/"></img>
+	<img src="https://i.ibb.co/nrpjrRr/267-DAE0-B-22-EB-4-F44-BEAD-2-F0-BA052-F262.jpg"/>
 		<p>
 		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sagittis velit sed tristique hendrerit. 
 		Nam ligula magna, luctus ac odio sed, congue lacinia magna. Proin ac aliquam est. Sed eros massa, bibendum 

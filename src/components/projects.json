@@ -1,32 +1,26 @@
 [
   {
     "id": 1,
-		"title": "1",
-		"image": "https://via.placeholder.com/300"
+		"image": "https://i.ibb.co/X2JSy9n/54136787-939-F-473-A-BDB2-2-C5-F097-AD13-E.jpg"
   },
   {
 		"id": 2,
-		"title": "2",
-		"image": "https://via.placeholder.com/300"
+		"image": "https://i.ibb.co/D7K0ZRy/58-CCFF39-A3-E8-4990-AD61-24-B7-A15-D2-F91.jpg"
   },
   {
 		"id": 3,
-		"title": "3",
-		"image": "https://via.placeholder.com/300"
+		"image": "https://i.ibb.co/3FT4K1n/A08667-BD-1563-4197-BE14-4640-B56-C2-A50.jpg"
   },
   {
 		"id": 4,
-		"title": "4",
-		"image": "https://via.placeholder.com/300"
+		"image": "https://via.placeholder.com/200"
   },
   {
 		"id": 5,
-		"title": "5",
-		"image": "https://via.placeholder.com/300"
+		"image": "https://via.placeholder.com/200"
   },
   {
 		"id": 6,
-		"title": "6",
-		"image": "https://via.placeholder.com/300"
+		"image": "https://via.placeholder.com/200"
   }
 ]
